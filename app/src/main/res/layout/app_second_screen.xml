@@ -5,16 +5,9 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/texView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Welcome Android"
-        tools:ignore="MissingConstraints" />
-
-    <Button
-        android:id="@+id/callIt"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Second Screen"
+        android:text="Hello Second Screen Active"
         tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
